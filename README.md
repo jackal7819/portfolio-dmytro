@@ -1,6 +1,6 @@
-# My Portfolio
+# Personal Website of Dmytro
 
-This is my personal portfolio website built with Next.js, React, Tailwind CSS, Framer Motion, and EmailJS. The project showcases my skills, projects, and provides a way for visitors to contact me.
+This is personal website of Dmytro built with Next.js, React, Tailwind CSS, Framer Motion, and EmailJS. The project showcases him skills and provides a way for visitors to contact him.
 
 ## Technologies Used
 

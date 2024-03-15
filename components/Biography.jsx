@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-import ScrollSvg from './ScrollSvg'
+import ScrollSvg from './ScrollSvg';
 
 const Biography = () => {
 	return (
@@ -9,22 +9,22 @@ const Biography = () => {
 			<h1 className='text-2xl font-bold uppercase'>Biography</h1>
 			{/* BIOGRAPHY DESCRIPTION */}
 			<p className='md:text-lg'>
-				Hi there! My name is Victor, and I'm a frontend developer with a
-				strong passion for learning and growth. My professional journey
-				began in a factory, where I found not only stability but also
-				the importance of continuous development. Soon, I realized that
-				my true calling lies in the world of programming.<br></br>
-				Deciding to change careers, I devoted myself to frontend
-				development. Since then, I have been tirelessly learning and
-				expanding my skills in this field, striving to achieve the
-				highest results. Currently, I am actively involved in volunteer
-				projects, where my passion for creating beautiful and functional
-				web interfaces finds its expression.
-				<br></br>I am eagerly seeking opportunities to apply my skills
-				and experience in a professional team, where I can not only grow
-				but also contribute to the creation of high-quality web
-				products. I look forward to the opportunity to meet with you and
-				discuss how I can make a positive impact on your company!
+				Hi there! My name is Dmytro, and I am a highly skilled mechanic
+				with years of experience. My professional journey began at a
+				factory, where I not only found stability but also realized the
+				importance of continuous skill development. Over the years of
+				practice, I have thoroughly studied the repair and maintenance
+				of various equipment, as well as the assembly and disassembly of
+				structures. Currently, I am open to new professional
+				opportunities and ready to apply my extensive knowledge in
+				practice. My passion is to bring every job to perfection,
+				creating a truly high-quality product. I strive to constantly
+				expand my knowledge and skills, mastering the latest
+				technologies and techniques. Now, I am seeking an opportunity to
+				apply my rich experience and craftsmanship in a professional
+				team. I look forward to meeting with you to discuss how my
+				qualifications can help improve the efficiency of your repair
+				work at the highest level.
 			</p>
 			{/* BIOGRAPHY QUOTE */}
 			<span className='italic md:text-xl'>

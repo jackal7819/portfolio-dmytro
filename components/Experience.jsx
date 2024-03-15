@@ -3,7 +3,7 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 
-import ScrollSvg from './ScrollSvg'
+import ScrollSvg from './ScrollSvg';
 
 const Experience = () => {
 	const experienceRef = useRef();
@@ -30,18 +30,18 @@ const Experience = () => {
 					<div className='w-5/6 md:w-1/3'>
 						{/* JOB TITLE */}
 						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
-							Front-End Developer
+							Fitter-Repairman
 						</div>
 						{/* JOB DESCRIPTION */}
 						<div className='p-3 text-sm italic'>
-							I create unique and engaging web applications using
-							cutting-edge frontend technologies, ensuring optimal
-							performance and responsive design for enhanced user
-							experience.
+							Performed repairs on shut-off valves in pipelines
+							and plants. Maintained centrifugal pumps through
+							repair work. Engaged in plumbing work, including
+							repairs of sanitary facilities.
 						</div>
 						{/* JOB DATE */}
 						<div className='p-3 text-sm font-semibold text-pink-400'>
-							October 2023 - Present
+							April 2000 - February 2022
 						</div>
 						{/* JOB COMPANY */}
 						<div className='p-3 text-sm font-semibold bg-white rounded'>

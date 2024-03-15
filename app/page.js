@@ -23,28 +23,22 @@ const Home = () => {
 					/>
 				</div>
 				{/* TEXT CONTAINER */}
-				<div className='flex flex-col items-center justify-center gap-8 h-1/2 lg:h-full lg:w-1/2'>
+				<div className='flex flex-col items-start justify-center gap-8 h-1/2 lg:h-full lg:w-1/2'>
 					{/* TITLE */}
-					<h1 className='text-4xl font-bold md:text-6xl'>
-						Crafting Digital Experiences, <br></br>Designing
-						Tomorrow
+					<h1 className='text-4xl font-bold text-center md:text-6xl lg:text-start'>
+						Mastery in Every Motion
 					</h1>
 					{/* DESCRIPTION */}
 					<p className='md:text-xl'>
-						Welcome to my digital canvas, where innovation and
-						creativity converge. With a keen eye for aesthetics and
-						a mastery of code, my portfolio showcases a diverse
-						collection of projects that reflect my commitment to
-						excellence.
+						Welcome to the world of professional repair and
+						maintenance! On this website, you'll find a true master
+						of the craft, a wizard with tools. Years of experience,
+						attention to detail, and a passion for perfection –
+						that's what sets me apart from others. Let my skilled
+						hands bring your repair projects to life.
 					</p>
 					{/* BUTTONS */}
 					<div className='flex items-center justify-center w-full gap-4 lg:justify-start'>
-						<Link
-							href='/portfolio'
-							className='w-40 p-3 font-semibold text-center text-white duration-300 bg-black border-4 border-black rounded-lg hover:bg-amber-500 hover:border-amber-500 active:bg-amber-400'
-						>
-							View My Work
-						</Link>
 						<Link
 							href='/contact'
 							className='w-40 p-3 font-semibold text-center duration-300 border-4 border-black rounded-lg hover:bg-amber-500 hover:text-white hover:border-amber-500 active:bg-amber-400'

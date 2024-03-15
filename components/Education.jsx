@@ -28,15 +28,15 @@ const Education = () => {
 					<div className='w-5/6 md:w-1/3'>
 						{/* EDUCATION TITLE */}
 						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
-							Practical React
+							Technician-Metallurgist
 						</div>
 						{/* EDUCATION DATE */}
 						<div className='p-3 text-sm font-semibold text-pink-400'>
-							June 2023 - August 2023
+							September 1995 - June 1999
 						</div>
 						{/* EDUCATION COMPANY */}
 						<div className='p-3 text-sm font-semibold uppercase bg-white rounded'>
-							SoftServe Academy
+							Vocational School
 						</div>
 					</div>
 					{/* CENTER */}
@@ -66,15 +66,15 @@ const Education = () => {
 					<div className='w-5/6 md:w-1/3'>
 						{/* EDUCATION TITLE */}
 						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
-							Front-End Development
+							Carpenter
 						</div>
 						{/* EDUCATION DATE */}
 						<div className='p-3 text-sm font-semibold text-pink-400'>
-							July 2022 - November 2022
+							September 1991 - June 1993
 						</div>
 						{/* EDUCATION COMPANY */}
 						<div className='p-3 text-sm font-semibold uppercase bg-white rounded'>
-							Beetroot Academy
+							Training and Production Facility
 						</div>
 					</div>
 				</div>
@@ -84,16 +84,15 @@ const Education = () => {
 					<div className='w-5/6 md:w-1/3'>
 						{/* EDUCATION TITLE */}
 						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
-							Master's Degree | <br></br>Industrial Heat
-							Engineering
+							Secondary School Diploma
 						</div>
 						{/* EDUCATION DATE */}
 						<div className='p-3 text-sm font-semibold text-pink-400'>
-							September 1997 - June 2002
+							September 1983 - June 1993
 						</div>
 						{/* EDUCATION COMPANY */}
 						<div className='p-3 text-sm font-semibold uppercase bg-white rounded'>
-							Priazovsky State Technical University
+							Secondary School №30
 						</div>
 					</div>
 					{/* CENTER */}
