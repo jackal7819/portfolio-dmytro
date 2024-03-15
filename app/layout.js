@@ -10,8 +10,8 @@ const montserrat = Montserrat_Alternates({
 });
 
 export const metadata = {
-	title: 'PortfolioV',
-	description: 'Portfolio of Viktor',
+	title: 'Dimongol',
+	description: 'Personal Website of Dmytro',
 };
 
 const RootLayout = ({ children }) => {

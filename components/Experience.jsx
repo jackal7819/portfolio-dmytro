@@ -45,7 +45,7 @@ const Experience = () => {
 						</div>
 						{/* JOB COMPANY */}
 						<div className='p-3 text-sm font-semibold bg-white rounded'>
-							BAZA TRAINEE UKRAINE
+							METINVEST
 						</div>
 					</div>
 					{/* CENTER */}
@@ -75,24 +75,56 @@ const Experience = () => {
 					<div className='w-5/6 md:w-1/3'>
 						{/* JOB TITLE */}
 						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
-							Power Unit Engineer
+							Safety Inspector
 						</div>
 						{/* JOB DESCRIPTION */}
 						<div className='p-3 text-sm italic'>
-							My responsibilities included monitoring and ensuring
-							the efficient operation of power systems,
-							participating in the planning and implementation of
-							maintenance processes.
+							Conducted inspections and enforced safety
+							requirements at plants.
 						</div>
 						{/* JOB DATE */}
 						<div className='p-3 text-sm font-semibold text-pink-400'>
-							July 2002 - February 2022
+							February 1996 - March 2000
 						</div>
 						{/* JOB COMPANY */}
 						<div className='p-3 text-sm font-semibold bg-white rounded'>
-							METINVEST
+							AZOVMARS
 						</div>
 					</div>
+				</div>
+				{/* EXPERIENCE LIST ITEM*/}
+				<div className='flex justify-between h-72'>
+					{/* LEFT */}
+					<div className='w-5/6 md:w-1/3'>
+						{/* JOB TITLE */}
+						<div className='p-3 font-semibold bg-white rounded-b-lg rounded-s-lg'>
+							Carpenter-Formwork Builder
+						</div>
+						{/* JOB DESCRIPTION */}
+						<div className='p-3 text-sm italic'>
+							Carpentry skills: manufacturing wooden objects such
+							as building components. Woodworking experience in
+							processing wood for various purposes.
+						</div>
+						{/* JOB DATE */}
+						<div className='p-3 text-sm font-semibold text-pink-400'>
+							June 1994 - November 1995
+						</div>
+						{/* JOB COMPANY */}
+						<div className='p-3 text-sm font-semibold bg-white rounded'>
+							MEK named after Ilyich
+						</div>
+					</div>
+					{/* CENTER */}
+					<div className='flex justify-center w-1/6'>
+						{/* LINE */}
+						<div className='relative w-1 h-full bg-gray-600 rounded'>
+							{/* LINE CIRCLE */}
+							<div className='absolute w-5 h-5 bg-white rounded-full ring-4 ring-pink-400 -left-2'></div>
+						</div>
+					</div>
+					{/* RIGHT */}
+					<div className='w-0 md:w-1/3'></div>
 				</div>
 			</div>
 			<ScrollSvg />

@@ -17,7 +17,7 @@ const Home = () => {
 				<div className='relative h-1/2 lg:h-full lg:w-1/2'>
 					<Image
 						src='/image.svg'
-						alt=''
+						alt='factory'
 						fill
 						className='object-contain'
 					/>
