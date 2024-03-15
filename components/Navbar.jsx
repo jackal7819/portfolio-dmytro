@@ -111,11 +111,16 @@ const Navbar = () => {
 			{/* SOCIALS */}
 			<div className='items-center hidden gap-5 md:flex'>
 				{socials.map((social) => (
-					<Link key={social.icon} href={social.url}>
+					<a
+						key={social.icon}
+						href={social.url}
+						target='_blank'
+						rel='noreferrer'
+					>
 						<social.icon
 							className={`text-3xl duration-300 ${social.hover} ${social.color}`}
 						/>
-					</Link>
+					</a>
 				))}
 			</div>
 			{/* MOBILE MENU */}
